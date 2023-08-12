@@ -1,2 +1,2 @@
 # MLOps_FinalProject
-Final project of the MLOps subject
+This is a repo to Final project of the MLOps subject
